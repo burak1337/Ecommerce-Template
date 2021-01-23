@@ -1,1 +1,1 @@
-E-commerce Deneme
+E-commerce Template
