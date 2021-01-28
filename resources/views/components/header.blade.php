@@ -19,7 +19,7 @@
                         <div class="limit-box">
                             <nav class="main-menu">
                                 <ul class="menu-area-main">
-                                    <li class="active"> <a href="{{route('header')}}">Home</a> </li>
+                                    <li class="active"> <a href="{{route('components')}}">Home</a> </li>
                                     <li> <a href="{{route('about')}}">About</a> </li>
                                     <li><a href="{{route('brand')}}">Brand</a></li>
                                     <li><a href="{{route('special')}}">Specials</a></li>

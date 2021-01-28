@@ -14,10 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('pages.header');
+    return view('pages.components');
 });
 
-Route::view('/','pages.header')->name('header');
+Route::view('/','pages.components')->name('components');
 Route::view('/about','pages.about')->name('about');
 Route::view('/brand','pages.brand')->name('brand');
 Route::view('/special','pages.special')->name('special');
