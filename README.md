@@ -6,7 +6,19 @@ CategoryMigration
 
 
 ProductMigration
+
 ![ProductMigration](https://user-images.githubusercontent.com/41003932/106140179-782eb580-617f-11eb-911d-25efac8f14e1.png)
+
+
+
+Category Modal
+
+![CategoryModal](https://user-images.githubusercontent.com/41003932/106140291-a2807300-617f-11eb-82e0-5778b7da9eda.png)
+
+
+
+
+
 
 
 
