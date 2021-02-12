@@ -24,6 +24,13 @@
                                     <li><a href="{{route('brand')}}">Brand</a></li>
                                     <li><a href="{{route('special')}}">Specials</a></li>
                                     <li><a href="{{route('contacts')}}">Contact Us</a></li>
+                                    @auth
+                                        <li class=""><a href="{{route('logout')}}">Logout</a></li>
+                                    @endauth
+                                    @guest
+                                        <li class=""><a href="{{route('login')}}">Login</a></li>
+                                        <li class=""><a href="{{route('register')}}">Register</a></li>
+                                    @endguest
                                     <li class="last">
                                         <a href="#"><img src="{{'assets'}}/images/search_icon.png" alt="icon" /></a>
                                     </li>
