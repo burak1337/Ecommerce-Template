@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d03212e6-c303-4a66-8be3-21e4160ff397" name="Default Changelist" comment="">
+    <list default="true" id="d03212e6-c303-4a66-8be3-21e4160ff397" name="Default Changelist" comment="register işlemi yapıldı">
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_2_12_21__5_10_PM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/example-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.css" afterDir="false" />
@@ -178,8 +186,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613139014841</updated>
-      <workItem from="1613139021070" duration="9777000" />
+      <workItem from="1613139021070" duration="10105000" />
     </task>
+    <task id="LOCAL-00001" summary="register işlemi yapıldı">
+      <created>1613155058711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613155058711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,5 +211,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="register işlemi yapıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="register işlemi yapıldı" />
   </component>
 </project>
