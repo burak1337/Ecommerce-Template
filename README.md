@@ -1,5 +1,19 @@
 E-commerce Template
 
+Register İşlemi 1
+![register](https://user-images.githubusercontent.com/41003932/107809180-b9c48080-6d7b-11eb-9996-d38062ae3397.png)
+
+
+Register İşlemi 2
+![token](https://user-images.githubusercontent.com/41003932/107809303-ee383c80-6d7b-11eb-80e5-a67d9a6a656b.png)
+
+
+
+
+
+
+
+
 CategoryMigration
 
 ![CategoryMigration](https://user-images.githubusercontent.com/41003932/106140048-4ae20780-617f-11eb-9e99-d3cd330833e3.png)
