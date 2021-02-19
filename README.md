@@ -1,4 +1,19 @@
 E-commerce Template
+Base Category Fixed 1
+![ödev1](https://user-images.githubusercontent.com/41003932/108565237-66bb7200-7315-11eb-8dc6-ace132554e03.png)
+
+
+Base Category Fixed 2
+![deneme](https://user-images.githubusercontent.com/41003932/108565329-8ce11200-7315-11eb-883d-aa53c242a85b.png)
+
+
+
+
+
+
+
+
+
 
 Register İşlemi 1
 ![register](https://user-images.githubusercontent.com/41003932/107809180-b9c48080-6d7b-11eb-9996-d38062ae3397.png)
